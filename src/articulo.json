@@ -1,0 +1,37 @@
+[
+	{
+		"title": "Guantes de boxeo",
+		"price": 100,
+		"url": "https://http2.mlstatic.com/D_NQ_NP_734814-MLA50006953088_052022-O.webp",
+		"id": 1
+	},
+	{
+		"title": "Gorra",
+		"price": 200,
+		"url": "https://http2.mlstatic.com/D_NQ_NP_734814-MLA50006953088_052022-O.webp",
+		"id": 2
+	},
+	{
+		"title": "Guitarra",
+		"price": 500,
+		"id": 3
+	},
+	{
+		"title": "Iphone",
+		"price": 700,
+		"url": "https://http2.mlstatic.com/D_NQ_NP_734814-MLA50006953088_052022-O.webp",
+		"id": 4
+	},
+	{
+		"title": "Taza",
+		"price": 100,
+		"url": "https://http2.mlstatic.com/D_NQ_NP_734814-MLA50006953088_052022-O.webp",
+		"id": 5
+	},
+	{
+		"title": "Cafetera",
+		"price": 300,
+		"url": "https://http2.mlstatic.com/D_NQ_NP_734814-MLA50006953088_052022-O.webp",
+		"id": 6
+	}
+]
